@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"spr_square","path":"sprites/spr_square/spr_square.yy",},"order":2,},
+    {"id":{"name":"movement_code","path":"scripts/movement_code/movement_code.yy",},"order":3,},
     {"id":{"name":"Object","path":"objects/Object/Object.yy",},"order":1,},
     {"id":{"name":"Room","path":"rooms/Room/Room.yy",},"order":0,},
   ],
